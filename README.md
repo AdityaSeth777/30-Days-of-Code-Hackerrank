@@ -85,7 +85,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT License © Aditya Seth]([https://github.com/AdityaSeth777/ES-CS291_Practice/blob/main_aditya/License](https://github.com/AdityaSeth777/30-Days-of-Code-Hackerrank/blob/main/License))
+[MIT License © Aditya Seth](https://github.com/AdityaSeth777/30-Days-of-Code-Hackerrank/blob/main/License)
 
 ## What next ?
 - I will be working on completing this wonderful bunch of programs by Hackerrank, which I will be uploading as well.
