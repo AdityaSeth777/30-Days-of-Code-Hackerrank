@@ -19,7 +19,7 @@ Note: If you are using a language that doesn't support using  for string concate
 Note: The instructions are Java-based, but we support submissions in many popular languages. You can switch languages using the drop-down menu above your editor, and the  variable may be written differently depending on the best-practice conventions of your submission language.
 
 The problem should follow the following format: 
-<img src="https://github.com/AdityaSeth777/30-Days-of-Code-Hackerrank/blob/main/0%20-%20Hello%2C%20World/0%20day.png">
+<img src="https://github.com/AdityaSeth777/30-Days-of-Code-Hackerrank/blob/main/1%20-%20Data%20Types/1%20day.png">
 
 ## Explanation
 When we sum the integers 4 and 12, we get the integer 16.
