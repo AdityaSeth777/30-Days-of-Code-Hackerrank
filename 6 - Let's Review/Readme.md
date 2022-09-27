@@ -8,6 +8,7 @@ Note: ```()``` is considered to be an even index.
 
 Example: 
 s = adbecf
+
 Print ```abc def```
 
 The problem should follow the following format: 
