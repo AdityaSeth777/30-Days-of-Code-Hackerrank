@@ -1,4 +1,4 @@
-# [7th problem in the 30-Days-of-Code-Hackerrank Challenge](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true)
+# [10th problem in the 30-Days-of-Code-Hackerrank Challenge](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true)
 ## This repository contains the codes, I have been submitting in the 30 Days of Code program by Hackerrank.
 
 ## Task
